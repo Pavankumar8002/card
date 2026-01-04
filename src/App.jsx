@@ -3,13 +3,13 @@ import "./App.css";
 
 import Loader from "./Components/Loader.jsx"; // Import loader
 
-import march from "./assets/1.jpeg";
-import april from "./assets/2.jpeg";
-import may from "./assets/3.jpeg";
-import june from "./assets/4.jpeg";
-import july from "./assets/5.jpeg";
-import august from "./assets/6.jpeg";
-import september from "./assets/7.jpeg";
+import march from "./assets/10.jpeg";
+import april from "./assets/10.jpeg";
+import may from "./assets/10.jpeg";
+import june from "./assets/10.jpeg";
+import july from "./assets/10.jpeg";
+import august from "./assets/10.jpeg";
+import september from "./assets/10.jpeg";
 import october from "./assets/10.jpeg";
 
 export default function App() {
